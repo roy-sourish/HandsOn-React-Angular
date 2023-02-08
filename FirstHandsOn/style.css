@@ -134,6 +134,12 @@ ul{
     margin-top: -40px;
 }
 
+.fashion-box-container p{
+    color: #333333;
+    font-size: 20pt;
+    margin: 10px;
+}
+
 .deals-of-the-day .box{
     /* border: 1px solid black; */
     width: 140px;
@@ -199,4 +205,15 @@ footer{
 
 .footer-container .items{
     margin-right: 20px;
+}
+
+.index-search{
+    padding: 0px 30px;
+}
+.index-search a{    
+    text-decoration: none;
+    color: #333333;
+}
+.index-search p{
+    font-size: 14pt;
 }
